@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="TU_URL_DEL_BANNER" alt="Banner - Mateo Mealla" width="100%">
+  <img src="https://github.com/mateomealla/mateomealla/blob/main/Linkedim-banner-mateo-mealla.png" alt="Banner - Mateo Mealla" width="100%">
 </p>
 
 ---
