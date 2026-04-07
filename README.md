@@ -27,11 +27,11 @@ Estudio **Negocios Digitales en UdeSA** para sostener con lenguaje de negocio lo
 <br/>
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="24" width="94%">
+<table border="0" cellspacing="0" cellpadding="28" width="94%">
 <tr>
 <td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=lightbulb" width="40" height="40" onerror="this.style.display='none'"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjYTc4YmZhIj48cGF0aCBkPSJNOSAyMWMwIC41NS40NSAxIDEgMWg0Yy41NSAwIDEtLjQ1IDEtMXYtMUg5djF6bTMtMTlDOC4xNCAyIDUgNS4xNCA1IDljMCAyLjM4IDEuMTkgNC40NyAzIDUuNzRWMTdjMCAuNTUuNDUgMSAxIDFoNmMuNTUgMCAxLS40NSAxLTF2LTIuMjZjMS44MS0xLjI3IDMtMy4zNiAzLTUuNzQgMC0zLjg2LTMuMTQtNy03LTd6Ii8+PC9zdmc+" width="40" height="40"/>
 
 **Entiendo el problema primero**
 
@@ -40,7 +40,7 @@ Antes de escribir una línea de código, entiendo el negocio. Qué duele, qué f
 </td>
 <td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjYTc4YmZhIj48cGF0aCBkPSJNOS40IDE2LjZMNC44IDEybDQuNi00LjZMOCA2bC02IDYgNiA2IDEuNC0xLjR6bTUuMiAwbDQuNi00LjYtNC42LTQuNkwxNiA2bDYgNi02IDYtMS40LTEuNHoiLz48L3N2Zz4=" width="40" height="40"/>
 
 **Diseño y ejecuto la solución**
 
@@ -49,7 +49,7 @@ No delego lo técnico porque no lo domino — lo hago yo mismo. Desde la arquite
 </td>
 <td align="center" width="33%">
 
-<img src="https://skillicons.dev/icons?i=vercel" width="40" height="40"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjYTc4YmZhIj48cGF0aCBkPSJNMTIgNFYxTDggNWw0IDRWNmMzLjMxIDAgNiAyLjY5IDYgNiAwIDEuMDEtLjI1IDEuOTctLjcgMi44bDEuNDYgMS40NkMxOS41NCAxNS4wMyAyMCAxMy41NyAyMCAxMmMwLTQuNDItMy41OC04LTgtOHptMCAxNGMtMy4zMSAwLTYtMi42OS02LTYgMC0xLjAxLjI1LTEuOTcuNy0yLjhMNS4yNCA3Ljc0QzQuNDYgOC45NyA0IDEwLjQzIDQgMTJjMCA0LjQyIDMuNTggOCA4IDh2M2w0LTQtNC00djN6Ii8+PC9zdmc+" width="40" height="40"/>
 
 **Itero hasta que funciona**
 
@@ -129,11 +129,11 @@ Los proyectos no terminan en el lanzamiento. Mido, ajusto y mejoro con datos rea
 <br/>
 
 <div align="center">
-<table border="0" cellspacing="0" cellpadding="16" width="80%">
+<table border="0" cellspacing="0" cellpadding="20" width="80%">
 <tr>
 <td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=github" width="32" height="32"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjYTc4YmZhIj48cGF0aCBkPSJNMTIgM0wxIDlsMTEgNiA5LTQuOTFWMTdoMlY5TDEyIDN6TTUgMTMuMTh2NEwxMiAyMWw3LTMuODJ2LTRMMTIgMTdsLTctMy44MnoiLz48L3N2Zz4=" width="36" height="36"/>
 
 **Negocios Digitales**
 Universidad de San Andrés · UdeSA
@@ -142,7 +142,7 @@ Universidad de San Andrés · UdeSA
 </td>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/-Shark_Tank-1a1a2e?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2E3OGJmYSIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNUwxMiAyem0tMTAgOXY2bDEwIDUgMTAtNXYtNmwtMTAgNS0xMC01eiIvPjwvc3ZnPg==" height="28"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjYTc4YmZhIj48cGF0aCBkPSJNMTYgNmwyLjI5IDIuMjktNC44OCA0Ljg4LTQtNEwyIDE2LjU5IDMuNDEgMThsNi02IDQgNCA2LjMtNi4yOUwyMiAxMlY2eiIvPjwvc3ZnPg==" width="36" height="36"/>
 
 **Shark Tank**
 Proyecto validado ante inversores
@@ -152,7 +152,7 @@ Proyecto validado ante inversores
 <tr>
 <td align="center" width="50%">
 
-<img src="https://img.shields.io/badge/-Rotary-1a1a2e?style=flat-square&logo=rotary&logoColor=a78bfa" height="28"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjYTc4YmZhIj48cGF0aCBkPSJNMTYgMTFjMS42NiAwIDIuOTktMS4zNCAyLjk5LTNTMTcuNjYgNSAxNiA1Yy0xLjY2IDAtMyAxLjM0LTMgM3MxLjM0IDMgMyAzem0tOCAwYzEuNjYgMCAyLjk5LTEuMzQgMi45OS0zUzkuNjYgNSA4IDVDNS4zNCA1IDUgNi4zNCA1IDhzMS4zNCAzIDMgM3ptMCAyYy0yLjMzIDAtNyAxLjE3LTcgMy41VjE5aDE0di0yLjVjMC0yLjMzLTQuNjctMy41LTctMy41em04IDBjLS4yOSAwLS42Mi4wMi0uOTcuMDUgMS4xNi44NCAxLjk3IDEuOTcgMS45NyAzLjQ1VjE5aDZ2LTIuNWMwLTIuMzMtNC42Ny0zLjUtNy0zLjV6Ii8+PC9zdmc+" width="36" height="36"/>
 
 **Rotary International**
 Reconocimiento por proyecto de impacto
@@ -160,9 +160,9 @@ Reconocimiento por proyecto de impacto
 </td>
 <td align="center" width="50%">
 
-<img src="https://skillicons.dev/icons?i=webpack" width="32" height="32" style="display:none"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjYTc4YmZhIj48cGF0aCBkPSJNMTIgMkM4LjEzIDIgNSA1LjEzIDUgOWMwIDUuMjUgNyAxMyA3IDEzczctNy43NSA3LTEzYzAtMy44Ny0zLjEzLTctNy03em0wIDkuNWMtMS4zOCAwLTIuNS0xLjEyLTIuNS0yLjVzMS4xMi0yLjUgMi41LTIuNSAyLjUgMS4xMiAyLjUgMi41LTEuMTIgMi41LTIuNSAyLjV6Ii8+PC9zdmc+" width="36" height="36"/>
 
-**📍 NOA Argentina**
+**NOA Argentina**
 Jujuy · Salta
 
 </td>
