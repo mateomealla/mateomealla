@@ -5,35 +5,36 @@
 
 ---
 
-# 👋 Hola, soy Mateo Mealla  
+Mateo Mealla
+Emprendedor digital con base técnica.
+Construyo negocios y tecnología al mismo tiempo — no delego lo que no entiendo.
+Dirijo proyectos donde la IA, la automatización y el desarrollo web tienen que generar resultados concretos para empresas reales. Trabajo principalmente en el NOA argentino, con foco en PyMEs que necesitan transformación digital sin frivolidades.
+Estudio Negocios Digitales en la Universidad de San Andrés (UdeSA) — no para aprender teoría, sino para tener el lenguaje que une el negocio con la ejecución técnica.
 
-Soy estudiante de **Negocios Digitales (UdeSA)** y apasionado por la **innovación tecnológica** aplicada a los negocios.  
-Me especializo en **desarrollo web**, **dirección de proyectos** y **transformación digital** con foco en generar impacto real.  
+Cómo trabajo
+No separo el "qué" del "cómo". Cuando defino una solución, también la ejecuto.
+Eso significa que entro a un proyecto conociendo el problema de negocio y salgo habiendo construido la herramienta que lo resuelve.
+Trabajo sobre tres ejes:
+→ Automatización e IA aplicada
+Agentes conversacionales, pipelines de contenido, integraciones entre sistemas. No como experimento — como infraestructura productiva.
+→ E-commerce y operaciones digitales
+Desde la arquitectura del catálogo hasta el flujo de pago, pasando por la logística interna. Con foco especial en WooCommerce y soluciones custom sobre WordPress.
+→ Dirección de proyectos digitales
+PM de inicio a fin: relevamiento, diseño, ejecución, iteración. Con equipos pequeños y timelines ajustados — la realidad de las empresas con las que trabajo.
 
-Actualmente combino **formación académica** con proyectos prácticos: desde el desarrollo de sitios web hasta la implementación de ERP, aplicaciones y soluciones digitales para PyMEs y startups.  
+Stack
+AI / LLM       →  Claude API · OpenRouter · Ollama · RAG (Supabase)
+Automatización →  n8n · Docker · Webhooks
+Backend        →  Node.js · Python · PHP
+Frontend       →  React · React Native · HTML/CSS/JS
+Base de datos  →  PostgreSQL · Supabase · SQL
+E-commerce     →  WordPress · WooCommerce (plugins custom)
+Infra          →  OVH · Plesk · Docker · Linux
 
----
+Formación
 
-## 🚀 Proyectos Destacados  
-
-### 📌 Programación I – Fundamentos Web  
-- Desarrollo de **3 sitios estáticos** aplicando **HTML, CSS y JavaScript**.  
-- Enfoque en **estructura semántica**, diseño responsive y buenas prácticas de front-end.  
-
-### 📌 Programación II – Back-End  
-- Manejo de **SQL** para gestión de bases de datos.  
-- Desarrollo de aplicaciones con **Node.js + EJS**.  
-- Enfoque en lógica de servidor, rutas dinámicas y templates reutilizables.  
-
-### 📌 Programación III – Front-End Avanzado  
-- Desarrollo de proyectos en **React**.  
-- Componentes reutilizables, manejo de estado y conexión con API REST.  
-- Práctica de **hooks**, **routing** y optimización de experiencia de usuario.  
-
-### 📌 Proyectos Propios y Freelance  
-- **Sistema de Gestión de Cadetes**: aplicación para empresas de logística con asignación de pedidos, seguimiento y reportes.  
-- **Plugin de WooCommerce en PHP**: extensión personalizada para automatizar procesos de inventario y pedidos en e-commerce.  
-
+Negocios Digitales — Universidad de San Andrés (UdeSA), en curso
+Validación externa: Shark Tank · Rotary
 ---
 
 ## 📬 Conecta conmigo  
@@ -51,11 +52,6 @@ Actualmente combino **formación académica** con proyectos prácticos: desde el
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateomealla&layout=donut&theme=tokyonight" alt="Top Langs" />
-  </a>
-</p>
 
 ---
 
