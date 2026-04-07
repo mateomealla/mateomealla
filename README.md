@@ -8,6 +8,8 @@
 
 </div>
 
+<br/>
+
 ---
 
 ## Quién soy
@@ -22,33 +24,43 @@ Estudio **Negocios Digitales en UdeSA** para tener el lenguaje que une el negoci
 
 ## Cómo trabajo
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   IA y Automatización    →   Agentes conversacionales,          │
-│                               pipelines, integraciones.         │
-│                               No como experimento — como        │
-│                               infraestructura productiva.       │
-│                                                                  │
-│   E-commerce             →   Desde arquitectura de catálogo     │
-│                               hasta flujo de pago. WooCommerce  │
-│                               y soluciones custom sobre WP.     │
-│                                                                  │
-│   Dirección de proyectos →   PM de inicio a fin: relevamiento,  │
-│                               diseño, ejecución, iteración.     │
-│                               Equipos pequeños, resultados      │
-│                               reales.                           │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+<br/>
+
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0" width="90%">
+  <tr>
+    <td align="center" width="33%" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/🤖-IA%20%26%20Automatización-a78bfa?style=for-the-badge&labelColor=1a1a2e&color=a78bfa"/>
+      <br/><br/>
+      <sub>Agentes conversacionales, pipelines, integraciones.<br/>No como experimento — como infraestructura productiva.</sub>
+    </td>
+    <td align="center" width="33%" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/🛒-E--commerce-a78bfa?style=for-the-badge&labelColor=1a1a2e&color=a78bfa"/>
+      <br/><br/>
+      <sub>Desde arquitectura de catálogo hasta flujo de pago.<br/>WooCommerce y soluciones custom sobre WordPress.</sub>
+    </td>
+    <td align="center" width="33%" style="padding: 20px;">
+      <img src="https://img.shields.io/badge/📋-Dirección%20de%20Proyectos-a78bfa?style=for-the-badge&labelColor=1a1a2e&color=a78bfa"/>
+      <br/><br/>
+      <sub>PM de inicio a fin: relevamiento, diseño, ejecución, iteración.<br/>Equipos pequeños, resultados reales.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
 ## Stack
 
+<br/>
+
 <div align="center">
 
-**AI & Automatización**
+**`AI & Automatización`**
 
 [![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com)
 [![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
@@ -56,7 +68,9 @@ Estudio **Negocios Digitales en UdeSA** para tener el lenguaje que une el negoci
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.ai)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-6366F1?style=for-the-badge&logo=openai&logoColor=white)](https://openrouter.ai)
 
-**Backend & Frontend**
+<br/>
+
+**`Backend & Frontend`**
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -64,13 +78,17 @@ Estudio **Negocios Digitales en UdeSA** para tener el lenguaje que une el negoci
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
-**E-commerce & Datos**
+<br/>
+
+**`E-commerce & Datos`**
 
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org)
 [![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)](https://woocommerce.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
 
-**Infraestructura**
+<br/>
+
+**`Infraestructura`**
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
@@ -78,44 +96,49 @@ Estudio **Negocios Digitales en UdeSA** para tener el lenguaje que une el negoci
 
 </div>
 
+<br/>
+
 ---
 
 ## Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mateomealla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateomealla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
-
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateomealla&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateomealla&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888)](https://git.io/streak-stats)
 
 </div>
+
+<br/>
 
 ---
 
 ## Formación & Validación
 
-| | |
-|---|---|
-| 🎓 | **Negocios Digitales** — Universidad de San Andrés (UdeSA), en curso |
-| 🦈 | **Shark Tank** — proyecto validado ante inversores |
-| 🌐 | **Rotary** — reconocimiento por proyecto de impacto |
-| 📍 | **NOA Argentina** — Jujuy · Salta |
+<br/>
+
+<div align="center">
+
+[![UdeSA](https://img.shields.io/badge/🎓_Negocios_Digitales-Universidad_de_San_Andrés_(UdeSA)-1a1a2e?style=for-the-badge&labelColor=302b63&color=a78bfa)](https://udesa.edu.ar)
+&nbsp;
+[![SharkTank](https://img.shields.io/badge/🦈_Shark_Tank-Proyecto_validado_ante_inversores-1a1a2e?style=for-the-badge&labelColor=302b63&color=a78bfa)](#)
+&nbsp;
+[![Rotary](https://img.shields.io/badge/🌐_Rotary-Reconocimiento_por_proyecto_de_impacto-1a1a2e?style=for-the-badge&labelColor=302b63&color=a78bfa)](#)
+&nbsp;
+[![NOA](https://img.shields.io/badge/📍_NOA_Argentina-Jujuy_·_Salta-1a1a2e?style=for-the-badge&labelColor=302b63&color=a78bfa)](#)
+
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-**Si estás construyendo algo y necesitás a alguien que entienda tanto la lógica de negocio como el código — escribime.**
-
-<br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-mealla)
+&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateo_mealla/)
 
-<br/>
+<br/><br/>
 
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)](https://github.com/mateomealla)
 
