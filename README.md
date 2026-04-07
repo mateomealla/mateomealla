@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Construyo+negocios+y+tecnolog%C3%ADa+al+mismo+tiempo.;IA+aplicada+%E2%80%94+automatizaci%C3%B3n+%E2%80%94+e-commerce.;No+delego+lo+que+no+entiendo.;NOA+%F0%9F%87%A6%F0%9F%87%B7+%E2%80%94+Universidad+de+San+Andr%C3%A9s+%C2%B7+UdeSA)](https://github.com/mateomealla)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Construyo+negocios+y+tecnolog%C3%ADa+al+mismo+tiempo.;Identifico+el+problema.+Dise%C3%B1o+la+soluci%C3%B3n.+La+ejecuto.;No+delego+lo+que+no+entiendo.;NOA+%F0%9F%87%A6%F0%9F%87%B7+%E2%80%94+Universidad+de+San+Andr%C3%A9s+%C2%B7+UdeSA)](https://github.com/mateomealla)
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ## Quién soy
 
-Emprendedor digital con base técnica. Dirijo proyectos donde la IA, la automatización y el desarrollo web tienen que generar resultados concretos para empresas reales.
+Emprendedor digital con base técnica. Dirijo proyectos donde tecnología y negocio tienen que funcionar juntos — y generar resultados concretos.
 
-Trabajo principalmente en el **NOA argentino**, con foco en PyMEs que necesitan transformación digital sin frivolidades. Cuando defino una solución, también la ejecuto — no separo el "qué" del "cómo".
+Trabajo principalmente en el **NOA argentino**, con foco en empresas que necesitan transformación digital real, no decorativa. Entro a un proyecto conociendo el problema de negocio y salgo habiendo construido la solución que lo resuelve.
 
-Estudio **Negocios Digitales en UdeSA** para tener el lenguaje que une el negocio con la ejecución técnica.
+Estudio **Negocios Digitales en UdeSA** para sostener con lenguaje de negocio lo que ejecuto con código.
 
 ---
 
@@ -27,34 +27,46 @@ Estudio **Negocios Digitales en UdeSA** para tener el lenguaje que une el negoci
 <br/>
 
 <div align="center">
+<table border="0" cellspacing="0" cellpadding="24" width="94%">
+<tr>
+<td align="center" width="33%">
 
-<table border="0" cellspacing="0" cellpadding="0" width="90%">
-  <tr>
-    <td align="center" width="33%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/🤖-IA%20%26%20Automatización-a78bfa?style=for-the-badge&labelColor=1a1a2e&color=a78bfa"/>
-      <br/><br/>
-      <sub>Agentes conversacionales, pipelines, integraciones.<br/>No como experimento — como infraestructura productiva.</sub>
-    </td>
-    <td align="center" width="33%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/🛒-E--commerce-a78bfa?style=for-the-badge&labelColor=1a1a2e&color=a78bfa"/>
-      <br/><br/>
-      <sub>Desde arquitectura de catálogo hasta flujo de pago.<br/>WooCommerce y soluciones custom sobre WordPress.</sub>
-    </td>
-    <td align="center" width="33%" style="padding: 20px;">
-      <img src="https://img.shields.io/badge/📋-Dirección%20de%20Proyectos-a78bfa?style=for-the-badge&labelColor=1a1a2e&color=a78bfa"/>
-      <br/><br/>
-      <sub>PM de inicio a fin: relevamiento, diseño, ejecución, iteración.<br/>Equipos pequeños, resultados reales.</sub>
-    </td>
-  </tr>
+<img src="https://skillicons.dev/icons?i=lightbulb" width="40" height="40" onerror="this.style.display='none'"/>
+
+**Entiendo el problema primero**
+
+Antes de escribir una línea de código, entiendo el negocio. Qué duele, qué frena, qué hay que medir. La tecnología viene después.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://skillicons.dev/icons?i=git" width="40" height="40"/>
+
+**Diseño y ejecuto la solución**
+
+No delego lo técnico porque no lo domino — lo hago yo mismo. Desde la arquitectura hasta el deploy, pasando por cada decisión de producto.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://skillicons.dev/icons?i=vercel" width="40" height="40"/>
+
+**Itero hasta que funciona**
+
+Los proyectos no terminan en el lanzamiento. Mido, ajusto y mejoro con datos reales. El objetivo siempre es impacto, no entrega.
+
+</td>
+</tr>
 </table>
-
 </div>
 
 <br/>
 
 ---
 
-## Stack
+## Stack actual
+
+> No una lista cerrada — el stack evoluciona con cada proyecto. Estas son las herramientas con las que trabajo hoy.
 
 <br/>
 
@@ -117,15 +129,45 @@ Estudio **Negocios Digitales en UdeSA** para tener el lenguaje que une el negoci
 <br/>
 
 <div align="center">
+<table border="0" cellspacing="0" cellpadding="16" width="80%">
+<tr>
+<td align="center" width="50%">
 
-[![UdeSA](https://img.shields.io/badge/🎓_Negocios_Digitales-Universidad_de_San_Andrés_(UdeSA)-1a1a2e?style=for-the-badge&labelColor=302b63&color=a78bfa)](https://udesa.edu.ar)
-&nbsp;
-[![SharkTank](https://img.shields.io/badge/🦈_Shark_Tank-Proyecto_validado_ante_inversores-1a1a2e?style=for-the-badge&labelColor=302b63&color=a78bfa)](#)
-&nbsp;
-[![Rotary](https://img.shields.io/badge/🌐_Rotary-Reconocimiento_por_proyecto_de_impacto-1a1a2e?style=for-the-badge&labelColor=302b63&color=a78bfa)](#)
-&nbsp;
-[![NOA](https://img.shields.io/badge/📍_NOA_Argentina-Jujuy_·_Salta-1a1a2e?style=for-the-badge&labelColor=302b63&color=a78bfa)](#)
+<img src="https://skillicons.dev/icons?i=github" width="32" height="32"/>
 
+**Negocios Digitales**
+Universidad de San Andrés · UdeSA
+*En curso*
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/-Shark_Tank-1a1a2e?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2E3OGJmYSIgZD0iTTEyIDJMMiA3bDEwIDUgMTAtNUwxMiAyem0tMTAgOXY2bDEwIDUgMTAtNXYtNmwtMTAgNS0xMC01eiIvPjwvc3ZnPg==" height="28"/>
+
+**Shark Tank**
+Proyecto validado ante inversores
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://img.shields.io/badge/-Rotary-1a1a2e?style=flat-square&logo=rotary&logoColor=a78bfa" height="28"/>
+
+**Rotary International**
+Reconocimiento por proyecto de impacto
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://skillicons.dev/icons?i=webpack" width="32" height="32" style="display:none"/>
+
+**📍 NOA Argentina**
+Jujuy · Salta
+
+</td>
+</tr>
+</table>
 </div>
 
 <br/>
